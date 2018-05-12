@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\或跃在渊i\.android\build-cache\0a52634068f9045cbfd0f5415378694e83b7eb5c\output\jars\libs\rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84127ad71f76445b8215afceb38e8b05f58eafa6">
+        <dex dex="E:\Android\Narutu\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_a03397de8114ce3cd6ec47c5e03e55f06aca3118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\或跃在渊i\.android\build-cache\0a52634068f9045cbfd0f5415378694e83b7eb5c\output\jars\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f64e0f80ef26fbc722b4bc9f024370d5b1e8f6d6">
+        <dex dex="E:\Android\Narutu\app\build\intermediates\pre-dexed\debug\okio-1.7.0_a13b615eac658ca558774caae23fd570d9b2363f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\或跃在渊i\.android\build-cache\0a52634068f9045cbfd0f5415378694e83b7eb5c\output\jars\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea3a9be08d0dcf89783b2cc87c8787fdb2a0d12">
+        <dex dex="E:\Android\Narutu\app\build\intermediates\pre-dexed\debug\gson-2.6.2_4188d7f536a198d2e496b94042bfa8bca44d3db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\或跃在渊i\.android\build-cache\0a52634068f9045cbfd0f5415378694e83b7eb5c\output\jars\libs\BmobSDK_3.5.5_20170420.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f67cfc97fcbde8b4764f01135b10afa716ae1a40">
+        <dex dex="E:\Android\Narutu\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.5_20170420_49bae0e03888cbe26473d6e2adf2ca0097a95764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\或跃在渊i\.android\build-cache\0a52634068f9045cbfd0f5415378694e83b7eb5c\output\jars\libs\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79f0c1e382e8b62e91064ef6b71130dda83f338e">
+        <dex dex="E:\Android\Narutu\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_c86c819c511cdb6ebc14aa68f7c5e4a1fbed6511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\或跃在渊i\.android\build-cache\0a52634068f9045cbfd0f5415378694e83b7eb5c\output\jars\libs\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e009af854d43130a9a13bcba900ddd1124e835d5">
+        <dex dex="E:\Android\Narutu\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_f40a12176a96c16c08501f5360bf6ca93219aae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\或跃在渊i\.android\build-cache\0a52634068f9045cbfd0f5415378694e83b7eb5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac71d1248d0f3577b39093396e6ff35582a5d7a4">
+        <dex dex="E:\Android\Narutu\app\build\intermediates\pre-dexed\debug\classes_dd80b06332e2b33de857eb13c8f670900dfbea7a.jar" />
+    </item>
+
+</items>
